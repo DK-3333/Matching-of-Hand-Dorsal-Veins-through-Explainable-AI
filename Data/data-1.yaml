@@ -1,0 +1,5 @@
+train: D:\R.Material\Ritesh_Sir_Individual_Research\Filter_Dataset\Data\train\images
+val: D:\R.Material\Ritesh_Sir_Individual_Research\Filter_Dataset\Data\test\images
+
+nc: 1
+names: ['Dorsal_Palm_Region']
